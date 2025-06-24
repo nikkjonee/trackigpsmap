@@ -7,7 +7,7 @@ How Do I Download the Latest Map for My Tracki GPS?
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://iolosystemmechanicdownload.readthedocs.io/en/latest/_images/download.png
+.. image:: download.png
    :alt: My Project Logo
    :width: 500px
    :align: center
